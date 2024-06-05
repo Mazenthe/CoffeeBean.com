@@ -1,0 +1,62 @@
+header .high-light {
+    background-color: black;
+    padding: 1rem;
+    border-radius: 10px;
+  }
+  a {
+    text-decoration: none;
+    color: white;
+  }
+  body{
+    background-color: burlywood;
+    text-align: center;
+      font-family: "Nunito", sans-serif;
+      margin: 0;
+      text-align: center;
+      background-image: url(https://i.pinimg.com/564x/d5/43/0f/d5430f88ee2a7d2971492dee09534454.jpg);
+  }
+  h2{
+    text-align: left;
+  }
+  nav ul {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+  }
+  nav ul li {
+    margin: 0 1rem;
+  }
+  nav {
+    display: flex;
+    justify-content: space-around;
+    padding: 1.5rem;
+    text-decoration: none;
+  }
+  footer{
+    background-color: black;
+    color: white;
+    padding: 2rem;
+    border-radius: 10px;
+  }
+  img{
+    width: 400px;
+    height: 400px;
+  }
+  footer.heyo{
+    background-color: black;
+    padding: 0.1rem;
+    border-radius: 10px;
+  }
+  a.a{
+    color: white;
+    text-decoration: none;
+  }
+  pre{
+    font-size: 19px;
+    text-align: center;
+    font-family:"Nunito", sans-serif;
+  }
+  h2{
+    text-align: center;
+    font-family:"Nunito", sans-serif;
+  }
